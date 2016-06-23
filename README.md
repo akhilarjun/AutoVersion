@@ -1,4 +1,4 @@
-# AutoVersionImporter
+# AutoVersion
 This plugin will help you import JS files and CSS files with a timestamp appended to them. This will prevent the same being loaded from cache.
 
 ### Steps
