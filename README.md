@@ -9,7 +9,7 @@ Include the js file into your page.
 <script src='..path-to-js/autoVersionImport.js'></script>
 ```
 
-Now you could create a list of fles to be imported and pass them to the importer to import them.
+Now you could create a list of files to be imported and pass them to the importer to import them.
 
 ```javascript
 //Edited For Brewity
