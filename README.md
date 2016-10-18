@@ -21,8 +21,8 @@ var listOfScripts = [
 ];
 var jsImporter = new AutoVersion(FileType.JAVASCRIPT,listOfScripts);
 var cssImporter = new AutoVersion(FileType.CSS,listOfStyles);
-cssImporter.importAll();
-jsImporter.importAll();
+cssImporter.$import();
+jsImporter.$import();
 //Edited For Brewity
 ```
 
